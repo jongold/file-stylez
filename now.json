@@ -1,0 +1,7 @@
+{
+  "name": "file-stylez",
+  "alias": "file-stylez",
+  "env": {
+    "AUTH_URL": "http://localhost:3000"
+  }
+}
